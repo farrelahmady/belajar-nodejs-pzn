@@ -1,0 +1,16 @@
+{
+  "name": "belajar-nodejs-pzn",
+  "version": "1.0.0",
+  "description": "Belajar NodeJs Programmer Zaman Now",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farrel Ahmad Yudithia",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
